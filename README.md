@@ -11,7 +11,7 @@ A lightweight, high-performance file hosting service that provides instant publi
 ## Usage
 ```bash
 # Upload any file type
-curl upload.firego.cn -T [your-file]
+curl xxx.firego.cn -T [your-file]
 
 # Examples:
 curl xxx.firego.cn -T document.pdf
