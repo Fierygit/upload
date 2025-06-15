@@ -1,0 +1,2074 @@
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7070
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7070
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7070
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7070
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7070
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7070
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7070
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7070
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7070
+[GIN] 2025/05/07 - 22:05:06 | 200 |      130.96µs |             ::1 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7070
+[GIN] 2025/05/07 - 22:15:19 | 200 |     114.373µs |             ::1 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:25:25 | 404 |         445ns |   43.134.97.175 | PUT      "/uploaddfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:26:26 | 200 |     106.987µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:26:37 | 404 |         455ns |   43.134.97.175 | GET      "/upload/download/20250507_222626_dfdf_dfdf.txt"
+[GIN] 2025/05/07 - 22:26:38 | 404 |         340ns |   43.134.97.175 | GET      "/upload/favicon.ico"
+[GIN] 2025/05/07 - 22:30:24 | 200 |      95.291µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:30:28 | 200 |    7.147082ms |   43.134.97.175 | GET      "/download/20250507_223024_dfdf_dfdf.txt"
+[GIN] 2025/05/07 - 22:31:02 | 200 |      56.418µs |   43.134.97.175 | GET      "/download/20250507_222626_dfdf_dfdf.txt"
+[GIN] 2025/05/07 - 22:31:37 | 200 |      48.161µs |   43.134.97.175 | GET      "/download/20250507_223024_dfdf_dfdf.txt"
+[GIN] 2025/05/07 - 22:35:13 | 200 |     106.882µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:36:34 | 200 |     122.092µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:36:39 | 200 |     137.385µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:40:45 | 200 |      101.88µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:40:49 | 200 |     122.367µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:40:50 | 200 |     138.411µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:40:52 | 200 |     123.403µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:40:53 | 200 |     125.149µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:40:54 | 200 |     118.025µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:40:56 | 200 |     134.744µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:40:56 | 200 |     150.134µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:40:58 | 200 |     130.321µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:42:51 | 404 |         637ns |             ::1 | PUT      "/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 22:46:55 | 500 |         3m43s |             ::1 | PUT      "/upload/dfdf"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7070
+[GIN] 2025/05/07 - 23:15:31 | 200 |      99.112µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 23:15:36 | 200 |      99.625µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN] 2025/05/07 - 23:15:45 | 500 |         4m25s |             ::1 | PUT      "/upload/big_file"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7070
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7070
+[GIN] 2025/05/07 - 23:16:33 | 200 |     151.512µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+2025/05/07 23:17:43 [23:17:43.561] 开始处理上传请求
+2025/05/07 23:17:43 创建文件: upload_files/20250507_231743_dfdf_dfdf.txt
+2025/05/07 23:17:43 开始写入数据
+2025/05/07 23:17:43 写入完成: 总计 6 字节
+2025/05/07 23:17:43 准备返回响应: http://upload.firego.cn/download/20250507_231743_dfdf_dfdf.txt
+2025/05/07 23:17:43 [23:17:43.561] 响应已发送
+[GIN] 2025/05/07 - 23:17:43 | 200 |     170.596µs |   43.134.97.175 | PUT      "/upload/dfdf/dfdf.txt"
+2025/05/07 23:17:57 [23:17:57.654] 开始处理上传请求
+2025/05/07 23:17:57 创建文件: upload_files/20250507_231757_big_file
+2025/05/07 23:17:57 开始写入数据
+2025/05/07 23:19:01 写入失败: 已写入 10372083 字节，错误: unexpected EOF
+[GIN] 2025/05/07 - 23:19:01 | 500 |          1m3s |             ::1 | PUT      "/upload/big_file"
+2025/05/07 23:23:48 [23:23:48.790] 开始处理上传请求
+2025/05/07 23:23:48 创建文件: upload_files/20250507_232348_big_file
+2025/05/07 23:23:48 开始写入数据
+2025/05/07 23:30:36 写入完成: 总计 146595426 字节
+2025/05/07 23:30:36 准备返回响应: http://localhost:7070/download/20250507_232348_big_file
+2025/05/07 23:30:36 [23:30:36.539] 响应已发送
+[GIN] 2025/05/07 - 23:30:36 | 200 |         6m47s |             ::1 | PUT      "/upload/big_file"
+[GIN] 2025/05/07 - 23:41:24 | 200 | 40.028998598s |             ::1 | GET      "/download/20250507_232348_big_file"
+[GIN] 2025/05/07 - 23:46:18 | 200 |  129.301725ms |   119.29.247.74 | GET      "/download/20250507_232348_big_file"
+2025/05/08 11:28:55 [11:28:55.703] 开始处理上传请求
+2025/05/08 11:28:55 创建文件: upload_files/20250508_112855_1431710897-1-16.mp4
+2025/05/08 11:28:55 开始写入数据
+2025/05/08 11:28:55 写入完成: 总计 13327910 字节
+2025/05/08 11:28:55 准备返回响应: http://upload.firego.cn/download/20250508_112855_1431710897-1-16.mp4
+2025/05/08 11:28:55 [11:28:55.717] 响应已发送
+[GIN] 2025/05/08 - 11:28:55 | 200 |   13.232935ms |  119.147.10.190 | PUT      "/upload/1431710897-1-16.mp4"
+[GIN] 2025/05/08 - 11:29:36 | 200 |    6.337912ms |  119.147.10.190 | GET      "/download/20250508_112855_1431710897-1-16.mp4"
+2025/05/08 11:30:29 [11:30:29.221] 开始处理上传请求
+2025/05/08 11:30:29 创建文件: upload_files/20250508_113029_1431710897-1-16.mp4
+2025/05/08 11:30:29 开始写入数据
+2025/05/08 11:30:29 写入完成: 总计 13327910 字节
+2025/05/08 11:30:29 准备返回响应: http://upload.firego.cn/download/20250508_113029_1431710897-1-16.mp4
+2025/05/08 11:30:29 [11:30:29.234] 响应已发送
+[GIN] 2025/05/08 - 11:30:29 | 200 |   13.363351ms |  119.147.10.190 | PUT      "/upload/1431710897-1-16.mp4"
+2025/05/08 11:33:48 [11:33:48.965] 开始处理上传请求
+2025/05/08 11:33:48 创建文件: upload_files/20250508_113348_1431710897-1-16.mp4
+2025/05/08 11:33:48 开始写入数据
+2025/05/08 11:33:48 写入完成: 总计 13327910 字节
+2025/05/08 11:33:48 准备返回响应: http://upload.firego.cn/download/20250508_113348_1431710897-1-16.mp4
+2025/05/08 11:33:48 [11:33:48.976] 响应已发送
+[GIN] 2025/05/08 - 11:33:48 | 200 |   11.124873ms |  119.147.10.190 | PUT      "/upload/1431710897-1-16.mp4"
+2025/05/08 11:34:14 [11:34:14.872] 开始处理上传请求
+2025/05/08 11:34:14 创建文件: upload_files/20250508_113414_cloud-demand-common.log
+2025/05/08 11:34:14 开始写入数据
+2025/05/08 11:34:14 写入完成: 总计 8609825 字节
+2025/05/08 11:34:14 准备返回响应: http://upload.firego.cn/download/20250508_113414_cloud-demand-common.log
+2025/05/08 11:34:14 [11:34:14.879] 响应已发送
+[GIN] 2025/05/08 - 11:34:14 | 200 |    7.010703ms | 109.244.180.184 | PUT      "/upload/cloud-demand-common.log"
+[GIN] 2025/05/08 - 11:34:30 | 200 |    4.211457ms |  119.147.10.190 | GET      "/download/20250508_113414_cloud-demand-common.log"
+2025/05/08 19:03:10 [19:03:10.801] 开始处理上传请求
+2025/05/08 19:03:10 创建文件: upload_files/20250508_190310_test5
+2025/05/08 19:03:10 开始写入数据
+2025/05/08 19:03:10 写入完成: 总计 12 字节
+2025/05/08 19:03:10 准备返回响应: http://upload.firego.cn/download/20250508_190310_test5
+2025/05/08 19:03:10 [19:03:10.802] 响应已发送
+[GIN] 2025/05/08 - 19:03:10 | 200 |    1.340966ms |  119.147.10.200 | PUT      "/upload/test5"
+[GIN] 2025/05/08 - 19:03:13 | 200 |    1.804115ms |  119.147.10.200 | GET      "/download/20250508_190310_test5"
+2025/05/08 19:38:04 [19:38:04.546] 开始处理上传请求
+2025/05/08 19:38:04 创建文件: upload_files/20250508_193804_test
+2025/05/08 19:38:04 开始写入数据
+2025/05/08 19:38:04 写入完成: 总计 12 字节
+2025/05/08 19:38:04 准备返回响应: http://upload.firego.cn/download/20250508_193804_test
+2025/05/08 19:38:04 [19:38:04.546] 响应已发送
+[GIN] 2025/05/08 - 19:38:04 | 200 |     143.878µs |   113.108.77.69 | PUT      "/upload/test"
+[GIN] 2025/05/08 - 19:38:13 | 200 |       64.51µs |   113.108.77.69 | GET      "/download/20250508_193804_test"
+2025/05/08 19:39:35 [19:39:35.796] 开始处理上传请求
+2025/05/08 19:39:35 创建文件: upload_files/20250508_193935_hello.txt
+2025/05/08 19:39:35 开始写入数据
+2025/05/08 19:39:35 写入完成: 总计 12 字节
+2025/05/08 19:39:35 准备返回响应: http://upload.firego.cn/download/20250508_193935_hello.txt
+2025/05/08 19:39:35 [19:39:35.798] 响应已发送
+[GIN] 2025/05/08 - 19:39:35 | 200 |    1.133851ms |   113.108.77.69 | PUT      "/upload/hello.txt"
+[GIN] 2025/05/08 - 19:39:42 | 200 |      79.295µs |   113.108.77.69 | GET      "/download/20250508_193935_hello.txt"
+2025/05/08 19:42:08 [19:42:08.015] 开始处理上传请求
+2025/05/08 19:42:08 创建文件: upload_files/20250508_194208_DeepSeek_V3.pdf
+2025/05/08 19:42:08 开始写入数据
+2025/05/08 19:42:08 写入完成: 总计 1667109 字节
+2025/05/08 19:42:08 准备返回响应: http://upload.firego.cn/download/20250508_194208_DeepSeek_V3.pdf
+2025/05/08 19:42:08 [19:42:08.017] 响应已发送
+[GIN] 2025/05/08 - 19:42:08 | 200 |    1.501036ms |   113.108.77.69 | PUT      "/upload/DeepSeek_V3.pdf"
+2025/05/08 19:42:53 [19:42:53.756] 开始处理上传请求
+2025/05/08 19:42:53 创建文件: upload_files/20250508_194253_DeepSeek_V3.pdf
+2025/05/08 19:42:53 开始写入数据
+2025/05/08 19:42:53 写入完成: 总计 1667109 字节
+2025/05/08 19:42:53 准备返回响应: http://upload.firego.cn/download/20250508_194253_DeepSeek_V3.pdf
+2025/05/08 19:42:53 [19:42:53.758] 响应已发送
+[GIN] 2025/05/08 - 19:42:53 | 200 |    1.741483ms |   113.108.77.69 | PUT      "/upload/DeepSeek_V3.pdf"
+2025/05/08 19:44:21 [19:44:21.088] 开始处理上传请求
+2025/05/08 19:44:21 创建文件: upload_files/20250508_194421_DeepSeek_V3.pdf
+2025/05/08 19:44:21 开始写入数据
+2025/05/08 19:44:21 写入完成: 总计 1667109 字节
+2025/05/08 19:44:21 准备返回响应: http://upload.firego.cn/download/20250508_194421_DeepSeek_V3.pdf
+2025/05/08 19:44:21 [19:44:21.090] 响应已发送
+[GIN] 2025/05/08 - 19:44:21 | 200 |    1.623241ms |   113.108.77.69 | PUT      "/upload/DeepSeek_V3.pdf"
+2025/05/08 19:46:07 [19:46:07.274] 开始处理上传请求
+2025/05/08 19:46:07 创建文件: upload_files/20250508_194607_DeepSeek_V3.pdf
+2025/05/08 19:46:07 开始写入数据
+2025/05/08 19:46:07 写入完成: 总计 1667109 字节
+2025/05/08 19:46:07 准备返回响应: http://upload.firego.cn/download/20250508_194607_DeepSeek_V3.pdf
+2025/05/08 19:46:07 [19:46:07.275] 响应已发送
+[GIN] 2025/05/08 - 19:46:07 | 200 |    1.782382ms |   113.108.77.69 | PUT      "/upload/DeepSeek_V3.pdf"
+2025/05/08 19:47:26 [19:47:26.918] 开始处理上传请求
+2025/05/08 19:47:26 创建文件: upload_files/20250508_194726_DeepSeek_V3.pdf
+2025/05/08 19:47:26 开始写入数据
+2025/05/08 19:47:26 写入完成: 总计 1667109 字节
+2025/05/08 19:47:26 准备返回响应: http://upload.firego.cn/download/20250508_194726_DeepSeek_V3.pdf
+2025/05/08 19:47:26 [19:47:26.920] 响应已发送
+[GIN] 2025/05/08 - 19:47:26 | 200 |    1.545924ms |  119.147.10.200 | PUT      "/upload/DeepSeek_V3.pdf"
+[GIN] 2025/05/08 - 19:47:47 | 200 |     944.966µs |  119.147.10.200 | GET      "/download/20250508_194726_DeepSeek_V3.pdf"
+[GIN] 2025/05/09 - 17:59:38 | 404 |         966ns |   47.237.26.179 | GET      "/upload/"
+[GIN] 2025/05/09 - 17:59:38 | 404 |         291ns |   47.237.26.179 | GET      "/upload/favicon.ico"
+[GIN] 2025/05/09 - 17:59:38 | 404 |         151ns |   47.237.26.179 | GET      "/upload/sitemap.xml"
+[GIN] 2025/05/09 - 17:59:38 | 404 |         299ns |   47.237.26.179 | GET      "/upload/robots.txt"
+[GIN] 2025/05/10 - 04:24:44 | 404 |         434ns |   125.122.33.85 | GET      "/upload/"
+[GIN] 2025/05/10 - 04:26:34 | 404 |         358ns |  220.196.160.84 | GET      "/upload/"
+[GIN] 2025/05/10 - 08:04:55 | 404 |       1.039µs |   152.32.212.70 | GET      "/upload/"
+[GIN] 2025/05/10 - 08:04:55 | 404 |         395ns |   152.32.212.70 | GET      "/upload/favicon.ico"
+[GIN] 2025/05/10 - 08:04:55 | 404 |         346ns |   152.32.212.70 | GET      "/upload/"
+[GIN] 2025/05/10 - 08:04:55 | 404 |         641ns |   152.32.212.70 | GET      "/upload/"
+[GIN] 2025/05/10 - 08:04:56 | 404 |         688ns |   152.32.212.70 | GET      "/upload/app/"
+[GIN] 2025/05/10 - 08:04:56 | 404 |         339ns |   152.32.212.70 | GET      "/upload/api/"
+[GIN] 2025/05/10 - 08:04:56 | 404 |         785ns |   152.32.212.70 | GET      "/upload/api/user/ismustmobile"
+[GIN] 2025/05/10 - 08:04:56 | 404 |         432ns |   152.32.212.70 | GET      "/upload/static/image/bg1.jpg"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         742ns |   152.32.212.70 | GET      "/upload/"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         437ns |   152.32.212.70 | GET      "/upload/static/wap/css/trade-history.css"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         398ns |   152.32.212.70 | GET      "/upload/api/config"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         384ns |   152.32.212.70 | GET      "/upload/h5/"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         365ns |   152.32.212.70 | GET      "/upload/static/index/js/lk/order.js"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         413ns |   152.32.212.70 | GET      "/upload/h5"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         368ns |   152.32.212.70 | GET      "/upload/api/"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         316ns |   152.32.212.70 | GET      "/upload/index/login"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         266ns |   152.32.212.70 | GET      "/upload/a/"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         568ns |   152.32.212.70 | GET      "/upload/035/index.html"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         272ns |   152.32.212.70 | GET      "/upload/012/index.html"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         263ns |   152.32.212.70 | GET      "/upload/040/index.html"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         339ns |   152.32.212.70 | GET      "/upload/7/"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         360ns |   152.32.212.70 | GET      "/upload/m/"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         352ns |   152.32.212.70 | GET      "/upload/v2"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         287ns |   152.32.212.70 | GET      "/upload/xy/"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         292ns |   152.32.212.70 | GET      "/upload/im/"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         234ns |   152.32.212.70 | GET      "/upload/dist/images/mask/bg1.jpg"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         241ns |   152.32.212.70 | GET      "/upload/wap"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         259ns |   152.32.212.70 | GET      "/upload/api"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         285ns |   152.32.212.70 | GET      "/upload/static/wap/js/order.js"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         266ns |   152.32.212.70 | GET      "/upload/h5/"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         292ns |   152.32.212.70 | GET      "/upload/qs/"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         245ns |   152.32.212.70 | GET      "/upload/otc/"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         213ns |   152.32.212.70 | GET      "/upload/dist/images/mask/guide/cn/step1.jpg"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         230ns |   152.32.212.70 | GET      "/upload/app/"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         246ns |   152.32.212.70 | GET      "/upload/admin"
+[GIN] 2025/05/10 - 08:04:57 | 404 |         208ns |   152.32.212.70 | GET      "/upload/vip/"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         245ns |   152.32.212.70 | GET      "/upload/wap/"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         282ns |   152.32.212.70 | GET      "/upload/imei/"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         205ns |   152.32.212.70 | GET      "/upload/syn/"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         222ns |   152.32.212.70 | GET      "/upload/homes/"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         370ns |   152.32.212.70 | GET      "/upload/mobile"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         314ns |   152.32.212.70 | GET      "/upload/config"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         312ns |   152.32.212.70 | GET      "/upload/im/h5/"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         195ns |   152.32.212.70 | GET      "/upload/page/"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         215ns |   152.32.212.70 | GET      "/upload/bg.png"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         185ns |   152.32.212.70 | GET      "/upload/site.js"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         219ns |   152.32.212.70 | GET      "/upload/mobile/"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         276ns |   152.32.212.70 | GET      "/upload/m/"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         240ns |   152.32.212.70 | GET      "/upload/jym-wn/"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         269ns |   152.32.212.70 | GET      "/upload/conf.js"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         253ns |   152.32.212.70 | GET      "/upload/1.html"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         232ns |   152.32.212.70 | GET      "/upload/pc.html"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         240ns |   152.32.212.70 | GET      "/upload/api/c/a"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         245ns |   152.32.212.70 | GET      "/upload/lang.js"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         238ns |   152.32.212.70 | GET      "/upload/eids.js"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         269ns |   152.32.212.70 | GET      "/upload/js/xz.js"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         219ns |   152.32.212.70 | GET      "/upload/platform"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         217ns |   152.32.212.70 | POST     "/upload/api/init"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         305ns |   152.32.212.70 | GET      "/upload/api/ping"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         352ns |   152.32.212.70 | GET      "/upload/ddoo_im/"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         380ns |   152.32.212.70 | GET      "/upload/kfcvwo50"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         237ns |   152.32.212.70 | GET      "/upload/getLocale"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         232ns |   152.32.212.70 | GET      "/upload/step1.asp"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         291ns |   152.32.212.70 | GET      "/upload/css/skin/ymPrompt.css"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         215ns |   152.32.212.70 | GET      "/upload/site/info"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         227ns |   152.32.212.70 | GET      "/upload/home/help"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         265ns |   152.32.212.70 | GET      "/upload/config.js"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         244ns |   152.32.212.70 | GET      "/upload/style.css"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         282ns |   152.32.212.70 | GET      "/upload/ay-1.html"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         228ns |   152.32.212.70 | GET      "/upload/scheduler"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         207ns |   152.32.212.70 | POST     "/upload/join_room"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         231ns |   152.32.212.70 | GET      "/upload/gjs/stock"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         369ns |   152.32.212.70 | GET      "/upload/js/home.js"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         287ns |   152.32.212.70 | GET      "/upload/index/aurl"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         291ns |   152.32.212.70 | POST     "/upload/api/notice"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         315ns |   152.32.212.70 | GET      "/upload/api/config"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         344ns |   152.32.212.70 | GET      "/upload/kline/1m/1"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         241ns |   152.32.212.70 | GET      "/upload/option.bin"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         235ns |   152.32.212.70 | GET      "/upload/index.html"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         215ns |   152.32.212.70 | POST     "/upload/scheduler"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         221ns |   152.32.212.70 | GET      "/upload/categories"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         335ns |   152.32.212.70 | GET      "/upload/static/index/css/trade-history.css"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         340ns |   152.32.212.70 | GET      "/upload/code1.html"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         175ns |   152.32.212.70 | GET      "/upload/home/index"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         262ns |   152.32.212.70 | GET      "/upload/yongxing/"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         233ns |   152.32.212.70 | GET      "/upload/getsdkLink"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         283ns |   152.32.212.70 | POST     "/upload/api/config"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         337ns |   152.32.212.70 | GET      "/upload/api/version"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         408ns |   152.32.212.70 | GET      "/upload/myConfig.js"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         228ns |   152.32.212.70 | GET      "/upload/js/base1.js"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         541ns |   152.32.212.70 | GET      "/upload/js/a.script"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         236ns |   152.32.212.70 | GET      "/upload/js/post.js/"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         229ns |   152.32.212.70 | GET      "/upload/login.html"
+[GIN] 2025/05/10 - 08:04:58 | 404 |         239ns |   152.32.212.70 | GET      "/upload/mindex.html"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         644ns |   152.32.212.70 | GET      "/upload/js/index.js"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         292ns |   152.32.212.70 | GET      "/upload/my/zijin.png"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         344ns |   152.32.212.70 | GET      "/upload/css/main.css"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         324ns |   152.32.212.70 | GET      "/upload/user/reg.php"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         344ns |   152.32.212.70 | GET      "/upload/f/user/index"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         320ns |   152.32.212.70 | GET      "/upload/apis/globals"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         358ns |   152.32.212.70 | GET      "/upload/m/allticker/1"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         318ns |   152.32.212.70 | GET      "/upload/fePublicInfo/"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         351ns |   152.32.212.70 | GET      "/upload/nyyh/game.css"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         274ns |   152.32.212.70 | GET      "/upload/nyyh/chkjs.js"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         510ns |   152.32.212.70 | POST     "/upload/api/v1/check"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         377ns |   152.32.212.70 | GET      "/upload/css/style.css"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         726ns |   152.32.212.70 | GET      "/upload/im/App/config"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         352ns |   152.32.212.70 | GET      "/upload/img/xxing.png"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         301ns |   152.32.212.70 | GET      "/upload/3/favicon.ico"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         280ns |   152.32.212.70 | GET      "/upload/api/v1/config"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         296ns |   152.32.212.70 | GET      "/upload/thriveGame.css"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         231ns |   152.32.212.70 | GET      "/upload/Home/Index/api"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         289ns |   152.32.212.70 | GET      "/upload/js/nsc/main.js"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         255ns |   152.32.212.70 | GET      "/upload/index.php/sign"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         312ns |   152.32.212.70 | GET      "/upload/app/js/base.js"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         337ns |   152.32.212.70 | GET      "/upload/home/login.jpg"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         258ns |   152.32.212.70 | GET      "/upload/Pay_Index.html"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         327ns |   152.32.212.70 | GET      "/upload/setting/global"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         256ns |   152.32.212.70 | GET      "/upload/img/pc-ios.png"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         257ns |   152.32.212.70 | GET      "/upload/api/index/init"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         274ns |   152.32.212.70 | GET      "/upload/wa/index.html"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         360ns |   152.32.212.70 | GET      "/upload/api/shop/getKF"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         581ns |   152.32.212.70 | GET      "/upload/addons/fastim/"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         161ns |   152.32.212.70 | GET      "/upload/js/app.user.js"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         309ns |   152.32.212.70 | GET      "/upload/api/apps/config"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         206ns |   152.32.212.70 | GET      "/upload/css/scanner.css"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         196ns |   152.32.212.70 | GET      "/upload/api/index/index"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         248ns |   152.32.212.70 | GET      "/upload/api/Event/basic"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         249ns |   152.32.212.70 | GET      "/upload/api/front/index"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         228ns |   152.32.212.70 | GET      "/upload/geapi/webConfig"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         188ns |   152.32.212.70 | GET      "/upload/api/common/init"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         235ns |   152.32.212.70 | GET      "/upload/files/pub_rem.js"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         235ns |   152.32.212.70 | GET      "/upload/banner.do?code=1"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         231ns |   152.32.212.70 | GET      "/upload/share/init_data"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         223ns |   152.32.212.70 | GET      "/upload/verification.asp"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         236ns |   152.32.212.70 | GET      "/upload/friendGroup/list"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         248ns |   152.32.212.70 | GET      "/upload/appxz/index.html"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         198ns |   152.32.212.70 | GET      "/upload/dist/index.html"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         244ns |   152.32.212.70 | GET      "/upload/home/index.html"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         211ns |   152.32.212.70 | GET      "/upload/api/index/config"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         179ns |   152.32.212.70 | GET      "/upload/html/noroom.html"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         254ns |   152.32.212.70 | GET      "/upload/api/Video/config"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         235ns |   152.32.212.70 | GET      "/upload/static/js/main.js"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         227ns |   152.32.212.70 | GET      "/upload/css/nsc/reset.css"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         241ns |   152.32.212.70 | GET      "/upload/Home/Get/getJnd28"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         274ns |   152.32.212.70 | GET      "/upload/$web/index.html"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         273ns |   152.32.212.70 | GET      "/upload/skin/js/common.js"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         417ns |   152.32.212.70 | GET      "/upload/assets/js/main.js"
+[GIN] 2025/05/10 - 08:04:59 | 404 |         222ns |   152.32.212.70 | POST     "/upload/biz/server/config"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         436ns |   152.32.212.70 | GET      "/upload/mobile/lists.html"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         400ns |   152.32.212.70 | GET      "/upload/mytio/config/base"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         280ns |   152.32.212.70 | GET      "/upload/Public/initJs.php"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         372ns |   152.32.212.70 | GET      "/upload/mobile/login.html"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         315ns |   152.32.212.70 | GET      "/upload/api/app/indexList"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         291ns |   152.32.212.70 | GET      "/upload/api/common/config"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         631ns |   152.32.212.70 | GET      "/upload/mfzbs/config/base"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         509ns |   152.32.212.70 | GET      "/upload/mobile/index/home"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         387ns |   152.32.212.70 | POST     "/upload/mall/toget/banner"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         344ns |   152.32.212.70 | GET      "/upload/API/Web/chat.ashx"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         351ns |   152.32.212.70 | GET      "/upload/banner/lunbo1.png"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         304ns |   152.32.212.70 | GET      "/upload/index/login/index"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         274ns |   152.32.212.70 | GET      "/upload/static/js/user.js"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         378ns |   152.32.212.70 | GET      "/upload/api/Home/videoNew"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         228ns |   152.32.212.70 | GET      "/upload/dwcc/cnfig/setinf"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         249ns |   152.32.212.70 | GET      "/upload/ciod/cnfig/setinf"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         227ns |   152.32.212.70 | GET      "/upload/public/img/cz1.png"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         357ns |   152.32.212.70 | GET      "/upload/api/uploads/apimap"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         763ns |   152.32.212.70 | GET      "/upload/kefu/css/style.css"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         299ns |   152.32.212.70 | GET      "/upload/api/user/getconfig"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         208ns |   152.32.212.70 | GET      "/upload/Web/js/v1/phone.js"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         323ns |   152.32.212.70 | GET      "/upload/Public/H5/js/h5.js"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         219ns |   152.32.212.70 | GET      "/upload/h5/img/icon/rj.png"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         228ns |   152.32.212.70 | GET      "/upload/checkout-dashboard"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         205ns |   152.32.212.70 | POST     "/upload/instatll?tag=matto"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         240ns |   152.32.212.70 | GET      "/upload/home/realtime/data"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         231ns |   152.32.212.70 | GET      "/upload/account_domain.php"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         254ns |   152.32.212.70 | GET      "/upload/api/common/configs"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         238ns |   152.32.212.70 | GET      "/upload/skin/main/onload.js"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         236ns |   152.32.212.70 | GET      "/upload/public/js/global.js"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         227ns |   152.32.212.70 | GET      "/upload/api/site/getInfo.do"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         195ns |   152.32.212.70 | GET      "/upload/static/guide/ab.css"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         193ns |   152.32.212.70 | GET      "/upload/api/message/webInfo"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         236ns |   152.32.212.70 | GET      "/upload/Content/favicon.ico"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         218ns |   152.32.212.70 | GET      "/upload/api/index/webconfig"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         259ns |   152.32.212.70 | GET      "/upload/static/js/common.js"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         269ns |   152.32.212.70 | GET      "/upload/static/fanzhabu.png"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         274ns |   152.32.212.70 | GET      "/upload/index_files/xzjs.js"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         378ns |   152.32.212.70 | GET      "/upload/Public/js/common.js"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         285ns |   152.32.212.70 | GET      "/upload/mobile/lottery/list"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         290ns |   152.32.212.70 | GET      "/upload/index/user/register"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         270ns |   152.32.212.70 | GET      "/upload/xy/image/jiantou.png"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         236ns |   152.32.212.70 | GET      "/upload/public/css/style.css"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         165ns |   152.32.212.70 | GET      "/upload/static/css/style.css"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         233ns |   152.32.212.70 | GET      "/upload/api/index/grailindex"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         225ns |   152.32.212.70 | POST     "/upload/km.asmx/getPlatParam"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         224ns |   152.32.212.70 | GET      "/upload/static/css/reset.css"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         248ns |   152.32.212.70 | GET      "/upload/api/shares/hqStrList"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         234ns |   152.32.212.70 | GET      "/upload/static/css/index.css"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         300ns |   152.32.212.70 | GET      "/upload/api/getWebSiteConfig"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         258ns |   152.32.212.70 | GET      "/upload/other/getTopQuestion"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         283ns |   152.32.212.70 | GET      "/upload/assets/images/rw.png"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         269ns |   152.32.212.70 | GET      "/upload/index/login/register"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         265ns |   152.32.212.70 | GET      "/upload/static/diff_worker.js"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         268ns |   152.32.212.70 | GET      "/upload/data/json/config.json"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         296ns |   152.32.212.70 | GET      "/upload/Public/Home/js/cls.js"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         251ns |   152.32.212.70 | GET      "/upload/static/css/mobile.css"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         202ns |   152.32.212.70 | POST     "/upload/api/user/ismustmobile"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         240ns |   152.32.212.70 | GET      "/upload/api/user/ismustmobile"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         255ns |   152.32.212.70 | GET      "/upload/api/user/ismustmobile"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         259ns |   152.32.212.70 | GET      "/upload/static/css/public.css"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         228ns |   152.32.212.70 | POST     "/upload/api/user/ismustmobile"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         307ns |   152.32.212.70 | GET      "/upload/room/getRoomBangFans"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         276ns |   152.32.212.70 | GET      "/upload/index/home/login.html"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         274ns |   152.32.212.70 | GET      "/upload/procoin/config/all.do"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         229ns |   152.32.212.70 | GET      "/upload/static/picture/gz.png"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         202ns |   152.32.212.70 | GET      "/upload/iexchange/webtrader/"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         767ns |   152.32.212.70 | GET      "/upload/cx_platform/conf.json"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         411ns |   152.32.212.70 | GET      "/upload/app/api/app/get_index"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         311ns |   152.32.212.70 | GET      "/upload/static/css/common.css"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         300ns |   152.32.212.70 | GET      "/upload/unSecurity/app/config"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         262ns |   152.32.212.70 | GET      "/upload/dwcc/configxLxn/inxfx"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         198ns |   152.32.212.70 | GET      "/upload/api/index/productshow"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         265ns |   152.32.212.70 | GET      "/upload/api/get_workerman_url"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         251ns |   152.32.212.70 | GET      "/upload/api/currencyMatch/all"
+[GIN] 2025/05/10 - 08:05:00 | 404 |         238ns |   152.32.212.70 | GET      "/upload/static/js/download.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         424ns |   152.32.212.70 | GET      "/upload/aktv/img/nyyh/chkjs.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         434ns |   152.32.212.70 | GET      "/upload/index/index/getchatLog"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         411ns |   152.32.212.70 | GET      "/upload/static/images/jymx.png"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         363ns |   152.32.212.70 | GET      "/upload/api/system/notice/find"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         292ns |   152.32.212.70 | GET      "/upload/apix/tongchengyue/tags"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         410ns |   152.32.212.70 | GET      "/upload/assets/res/mods/room.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         431ns |   152.32.212.70 | GET      "/upload/Public/home/js/check.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         419ns |   152.32.212.70 | GET      "/upload/public/wap/js/basis.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         235ns |   152.32.212.70 | GET      "/upload/Public/css/errorCss.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         518ns |   152.32.212.70 | GET      "/upload/static/home/css/css.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         590ns |   152.32.212.70 | GET      "/upload/static/home/js/rooms.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         443ns |   152.32.212.70 | GET      "/upload/static/wap/js/common.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         562ns |   152.32.212.70 | GET      "/upload/static/data/configjs.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         443ns |   152.32.212.70 | GET      "/upload/static/mobile/user.html"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         284ns |   152.32.212.70 | GET      "/upload/member/js/lang_zh_CN.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         292ns |   152.32.212.70 | GET      "/upload/facebook/facebook.html"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         277ns |   152.32.212.70 | GET      "/upload/wx/static/css/style.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         370ns |   152.32.212.70 | GET      "/upload/public/api/index/config"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         269ns |   152.32.212.70 | GET      "/upload/static/common/css/v.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         278ns |   152.32.212.70 | GET      "/upload/index/index/ajaxindexpro"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         246ns |   152.32.212.70 | GET      "/upload/Public/Wchat/js/cvphp.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         195ns |   152.32.212.70 | GET      "/upload/index_files/bankCheck.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         243ns |   152.32.212.70 | GET      "/upload/resources/main/common.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         192ns |   152.32.212.70 | GET      "/upload/assets/app-manifest.json"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         245ns |   152.32.212.70 | GET      "/upload/h5/static/tabbar/txl.png"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         234ns |   152.32.212.70 | GET      "/upload/phone/images/icon_01.png"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         253ns |   152.32.212.70 | GET      "/upload/static/new/css/style.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         216ns |   152.32.212.70 | GET      "/upload/api/wanlshop/common/init"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         191ns |   152.32.212.70 | GET      "/upload/index.php/api/index/info"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         225ns |   152.32.212.70 | GET      "/upload/static/voice/default.wav"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         235ns |   152.32.212.70 | GET      "/upload/dist/azzara/css/down.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         173ns |   152.32.212.70 | GET      "/upload/static/js/chat-config.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         183ns |   152.32.212.70 | GET      "/upload/api/banner?appKey=bxefdn"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         202ns |   152.32.212.70 | GET      "/upload/api/Config/getShowConfig"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         217ns |   152.32.212.70 | GET      "/upload/api/client/app/config.do"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         253ns |   152.32.212.70 | GET      "/upload/s_api/basic/download/info"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         210ns |   152.32.212.70 | GET      "/upload/Public/home/js/fukuang.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         430ns |   152.32.212.70 | GET      "/upload/mobile/film/css/index.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         664ns |   152.32.212.70 | GET      "/upload/Content/css/wzwstylel.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         339ns |   152.32.212.70 | GET      "/upload/static/home/imgs/pico.png"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         237ns |   152.32.212.70 | GET      "/upload/saconfig/secure/yunwei.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         220ns |   152.32.212.70 | GET      "/upload/static/wap/css/common.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         195ns |   152.32.212.70 | GET      "/upload/static/picture/pc-ios.png"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         232ns |   152.32.212.70 | GET      "/upload/api/product/getPointStore"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         215ns |   152.32.212.70 | GET      "/upload/static/index/js/common.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         228ns |   152.32.212.70 | GET      "/upload/api/dict/getServiceConfig"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         241ns |   152.32.212.70 | GET      "/upload/Template/Mobile/js/main.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         241ns |   152.32.212.70 | GET      "/upload/template/920ka/css/lsy.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         242ns |   152.32.212.70 | GET      "/upload/static/common/js/common.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         543ns |   152.32.212.70 | GET      "/upload/api/currency/quotation_new"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         292ns |   152.32.212.70 | GET      "/upload/app/static/js/download.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         334ns |   152.32.212.70 | GET      "/upload/public/h5static/js/main.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         310ns |   152.32.212.70 | GET      "/upload/Public/mobile/css/base.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         200ns |   152.32.212.70 | GET      "/upload/pages/console/js/common.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         240ns |   152.32.212.70 | GET      "/upload/portal/index/protocol.html"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         251ns |   152.32.212.70 | GET      "/upload/resource/home/js/common.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         319ns |   152.32.212.70 | GET      "/upload/api/vue/transaction/config"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         195ns |   152.32.212.70 | GET      "/upload/resources/css/headernav.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         177ns |   152.32.212.70 | GET      "/upload/static/index/css/index.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         172ns |   152.32.212.70 | GET      "/upload/Templates/user/js/global.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         340ns |   152.32.212.70 | GET      "/upload/static/data/thirdgames.json"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         569ns |   152.32.212.70 | GET      "/upload/static/admincp/js/common.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         317ns |   152.32.212.70 | GET      "/upload/index.php/Wap/Api/getBanner"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         225ns |   152.32.212.70 | GET      "/upload/static/wap/css/tipmask.css"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         193ns |   152.32.212.70 | GET      "/upload/app/static/picture/star.png"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         219ns |   152.32.212.70 | GET      "/upload/market/market-ws/iframe.html"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         199ns |   152.32.212.70 | GET      "/upload/views/commData/commonSite.js"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         314ns |   152.32.212.70 | GET      "/upload/AnMjSjfe87/policy/getVersion"
+[GIN] 2025/05/10 - 08:05:01 | 404 |         225ns |   152.32.212.70 | GET      "/upload/static/py/un/logo.uni6on.png"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         340ns |   152.32.212.70 | GET      "/upload/api/ServerMember/getChatList"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         280ns |   152.32.212.70 | GET      "/upload/common/member/js/user.util.js"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         232ns |   152.32.212.70 | POST     "/upload/melody/api/v1/pageconfig/list"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         231ns |   152.32.212.70 | GET      "/upload/mobile/v3/appSuperDownload.do"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         256ns |   152.32.212.70 | GET      "/upload/template/mb/lang/text-zh.json"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         233ns |   152.32.212.70 | GET      "/upload/api/common/menus?lang=zh-Hans"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         243ns |   152.32.212.70 | GET      "/upload/Public/Qts/Home/js/appAlert.js"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         246ns |   152.32.212.70 | GET      "/upload/getConfig/getArticle.do?code=1"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         627ns |   152.32.212.70 | GET      "/upload/Public/home/wap/css/qdgame.css"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         188ns |   152.32.212.70 | GET      "/upload/Public/home/common/js/index.js"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         291ns |   152.32.212.70 | GET      "/upload/masterControl/getSystemSetting"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         257ns |   152.32.212.70 | GET      "/upload/install.inc/vipsignInstall.css"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         259ns |   152.32.212.70 | GET      "/upload/forerest/user/custSrv/findOne"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         220ns |   152.32.212.70 | GET      "/upload/api/appVersion?mobile_system=2"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         203ns |   152.32.212.70 | GET      "/upload/index/index/home?business_id=1"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         242ns |   152.32.212.70 | GET      "/upload/getDownloadUrl?appType=Android"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         233ns |   152.32.212.70 | POST     "/upload/api/GetConfigByKeys?keys=of_we"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         242ns |   152.32.212.70 | GET      "/upload/public/assets/img/index/pay1.png"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         451ns |   152.32.212.70 | GET      "/upload/assets/mstock/newimg/kaihu-1.png"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         474ns |   152.32.212.70 | GET      "/upload/static/images/config/grzx/usd.png"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         390ns |   152.32.212.70 | GET      "/upload/index/police/index.html?agent=1000"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         318ns |   152.32.212.70 | GET      "/upload/public/assets/js/lib/my-help.js"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         280ns |   152.32.212.70 | GET      "/upload/api/public/?service=Home.getConfig"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         272ns |   152.32.212.70 | GET      "/upload/admin/webadmin.php?mod=do&act=login"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         323ns |   152.32.212.70 | GET      "/upload/admin/appContent/staticImagePosition"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         233ns |   152.32.212.70 | GET      "/upload/static/images/config/common/cpjy.png"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         209ns |   152.32.212.70 | GET      "/upload/public/static/home/js/moblie/login.js"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         236ns |   152.32.212.70 | GET      "/upload/static/customer/js/xiaotian.cli.v2.js"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         245ns |   152.32.212.70 | GET      "/upload/api/unSecurity/app/listAppVersionInfo"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         238ns |   152.32.212.70 | GET      "/upload/public/static/index/picture/img_33.png"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         230ns |   152.32.212.70 | GET      "/upload/source/20220119/static/wap/js/order.js"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         296ns |   152.32.212.70 | GET      "/upload/ajax/allcoin_a/id/0?t=0.3782499195965951"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         238ns |   152.32.212.70 | GET      "/upload/index.php?m=api&c=app&a=getPlatformConfig"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         225ns |   152.32.212.70 | GET      "/upload/wap/api/exchangerateuserconfig!get.action"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         160ns |   152.32.212.70 | GET      "/upload/static/img/new-lottery-title.921682f7.png"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         208ns |   152.32.212.70 | GET      "/upload/static/home/css/feiqi-ee5401a8e6.css"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         233ns |   152.32.212.70 | GET      "/upload/api/api/exchangerateuserconfig!get.action"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         233ns |   152.32.212.70 | GET      "/upload/Public/Home/ecshe_css/main.css?v=1543997196"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         319ns |   152.32.212.70 | GET      "/upload/common/template/lottery/lecai/css/style.css"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         311ns |   152.32.212.70 | GET      "/upload/index/index/info?type=ultimate&date=2"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         239ns |   152.32.212.70 | GET      "/upload/static/picture/vg3mxzjnm4o5xsn25q31kn5io.png"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         231ns |   152.32.212.70 | GET      "/upload/Public/Mobile/ecshe_css/wapmain.css?v=1545408652"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         227ns |   152.32.212.70 | GET      "/upload/infe/rest/fig/advertise/common.json?mobile_open=1"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         240ns |   152.32.212.70 | GET      "/upload/client/api/findConfigByKey?configKey=level_config"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         196ns |   152.32.212.70 | GET      "/upload/favicon.ico"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         280ns |   152.32.212.70 | POST     "/upload/api/system/systemConfigs/getCustomerServiceLink"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         130ns |   152.32.212.70 | GET      "/upload/"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         229ns |   152.32.212.70 | POST     "/upload/site/api/v1/site/vipExclusiveDomain/getGuestDomain"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         277ns |   152.32.212.70 | GET      "/upload/api/v/index/queryOfficePage?officeCode=customHomeLink"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         235ns |   152.32.212.70 | GET      "/upload/8/"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         246ns |   152.32.212.70 | GET      "/upload/leftDao.php?callback=jQuery183016740860980352856_1604309800583"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         285ns |   152.32.212.70 | GET      "/upload/getConfig/listPopFrame.do?code=1&position=index&_=1601489645097"
+[GIN] 2025/05/10 - 08:05:02 | 404 |         223ns |   152.32.212.70 | POST     "/upload/api/heartbeat"
+[GIN] 2025/05/10 - 08:16:10 | 404 |         481ns |   180.163.30.27 | GET      "/upload/api/notice"
+[GIN] 2025/05/10 - 08:16:31 | 404 |         436ns |  180.163.28.114 | GET      "/upload/api/banner?appKey=bxefdn"
+[GIN] 2025/05/10 - 08:16:35 | 404 |         449ns |   180.163.28.55 | GET      "/upload/Public/initJs.php"
+[GIN] 2025/05/10 - 08:17:35 | 404 |         393ns |  180.163.28.109 | GET      "/upload/unSecurity/app/config"
+[GIN] 2025/05/10 - 08:18:00 | 404 |         436ns |   180.163.30.76 | GET      "/upload/api/config"
+[GIN] 2025/05/10 - 08:19:00 | 404 |         353ns |  180.163.28.109 | GET      "/upload/mindex.html"
+[GIN] 2025/05/10 - 09:45:39 | 404 |         842ns |       127.0.0.1 | GET      "/upload/h5/img/icon/rj.png"
+2025/05/12 10:42:19 [10:42:19.539] 开始处理上传请求
+2025/05/12 10:42:19 创建文件: upload_files/20250512_104219_hello.txt
+2025/05/12 10:42:19 开始写入数据
+2025/05/12 10:42:19 写入完成: 总计 12 字节
+2025/05/12 10:42:19 准备返回响应: http://upload.firego.cn/download/20250512_104219_hello.txt
+2025/05/12 10:42:19 [10:42:19.544] 响应已发送
+[GIN] 2025/05/12 - 10:42:19 | 200 |    4.316964ms |  119.147.10.199 | PUT      "/upload/hello.txt"
+[GIN] 2025/05/12 - 10:42:22 | 200 |     914.701µs |  119.147.10.199 | GET      "/download/20250512_104219_hello.txt"
+2025/05/12 13:03:44 [13:03:44.379] 开始处理上传请求
+2025/05/12 13:03:44 创建文件: upload_files/20250512_130344_hello.txt
+2025/05/12 13:03:44 开始写入数据
+2025/05/12 13:03:44 写入完成: 总计 12 字节
+2025/05/12 13:03:44 准备返回响应: http://upload.firego.cn/download/20250512_130344_hello.txt
+2025/05/12 13:03:44 [13:03:44.379] 响应已发送
+[GIN] 2025/05/12 - 13:03:44 | 200 |     146.747µs |  119.147.10.188 | PUT      "/upload/hello.txt"
+[GIN] 2025/05/12 - 13:03:57 | 200 |      67.108µs |  119.147.10.188 | GET      "/download/20250512_130344_hello.txt"
+2025/05/16 15:13:34 [15:13:34.036] 开始处理上传请求
+2025/05/16 15:13:34 创建文件: upload_files/20250516_151334_data.json
+2025/05/16 15:13:34 开始写入数据
+2025/05/16 15:13:34 写入完成: 总计 518294 字节
+2025/05/16 15:13:34 准备返回响应: http://upload.firego.cn/download/20250516_151334_data.json
+2025/05/16 15:13:34 [15:13:34.042] 响应已发送
+[GIN] 2025/05/16 - 15:13:34 | 200 |    6.539211ms | 109.244.180.117 | PUT      "/upload/data.json"
+[GIN] 2025/05/16 - 15:14:00 | 200 |    3.696639ms |   113.108.77.51 | GET      "/download/20250516_151334_data.json"
+[GIN] 2025/05/16 - 15:14:30 | 200 |    3.108514ms |   113.108.77.51 | GET      "/download/20250516_151334_data.json"
+[GIN] 2025/05/16 - 15:32:06 | 200 |     411.041µs |   113.108.77.51 | GET      "/download/20250516_151334_data.json"
+[GIN] 2025/05/16 - 15:32:13 | 304 |      50.639µs |   113.108.77.51 | GET      "/download/20250516_151334_data.json"
+[GIN] 2025/05/16 - 15:34:31 | 200 |     443.035µs |   113.108.77.72 | GET      "/download/20250516_151334_data.json"
+2025/05/30 17:23:31 [17:23:31.431] 开始处理上传请求
+2025/05/30 17:23:31 创建文件: upload_files/20250530_172331_ddns_update.sh
+2025/05/30 17:23:31 开始写入数据
+2025/05/30 17:23:31 写入完成: 总计 3119 字节
+2025/05/30 17:23:31 准备返回响应: http://upload.firego.cn/download/20250530_172331_ddns_update.sh
+2025/05/30 17:23:31 [17:23:31.436] 响应已发送
+[GIN] 2025/05/30 - 17:23:31 | 200 |    5.627224ms |      59.33.6.20 | PUT      "/upload/ddns_update.sh"
+[GIN] 2025/05/30 - 17:23:43 | 200 |     110.793µs |   113.108.77.66 | GET      "/download/20250530_172331_ddns_update.sh"
+2025/05/30 17:25:44 [17:25:44.309] 开始处理上传请求
+2025/05/30 17:25:44 创建文件: upload_files/20250530_172544_ddns_update.sh
+2025/05/30 17:25:44 开始写入数据
+2025/05/30 17:25:44 写入完成: 总计 3119 字节
+2025/05/30 17:25:44 准备返回响应: http://upload.firego.cn/download/20250530_172544_ddns_update.sh
+2025/05/30 17:25:44 [17:25:44.309] 响应已发送
+[GIN] 2025/05/30 - 17:25:44 | 200 |     138.651µs |      59.33.6.20 | PUT      "/upload/ddns_update.sh"
+2025/06/04 16:32:18 [16:32:18.454] 开始处理上传请求
+2025/06/04 16:32:18 创建文件: upload_files/20250604_163218_t.json
+2025/06/04 16:32:18 开始写入数据
+2025/06/04 16:32:18 写入完成: 总计 6863048 字节
+2025/06/04 16:32:18 准备返回响应: http://upload.firego.cn/download/20250604_163218_t.json
+2025/06/04 16:32:18 [16:32:18.463] 响应已发送
+[GIN] 2025/06/04 - 16:32:18 | 200 |    9.242328ms | 109.244.180.184 | PUT      "/upload/t.json"
+[GIN] 2025/06/04 - 16:32:25 | 200 |    9.207795ms |  119.147.10.163 | GET      "/download/20250604_163218_t.json"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] PUT    /upload/*filename         --> main.main.func1 (3 handlers)
+[GIN-debug] GET    /download/:filename       --> main.main.func2 (3 handlers)
+panic: listen tcp :7070: bind: address already in use
+
+goroutine 1 [running]:
+main.main()
+	/root/upload/server.go:83 +0x1f0
