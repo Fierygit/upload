@@ -14,13 +14,13 @@ A lightweight, high-performance file hosting service that provides instant publi
 curl upload.firego.cn -T [your-file]
 
 # Examples:
-curl upload.firego.cn -T document.pdf
-curl upload.firego.cn -T image.jpg
-curl upload.firego.cn -T data.bin
+curl xxx.firego.cn -T document.pdf
+curl xxx.firego.cn -T image.jpg
+curl xxx.firego.cn -T data.bin
 
 
 Response
 
 Successful uploads return a public URL in plain text format:
-https://upload.firego.cn/[random-filename].[ext]
+https://xxx.firego.cn/[random-filename].[ext]
 ```
